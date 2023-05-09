@@ -9,7 +9,6 @@ https://git-scm.com/download/
 **2.使用入口**
 
 win：右键菜单—git bash
-
 mac：终端窗口
 
 **3.基础配置**
